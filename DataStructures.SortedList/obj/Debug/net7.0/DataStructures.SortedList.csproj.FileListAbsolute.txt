@@ -1,0 +1,15 @@
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\bin\Debug\net7.0\DataStructures.SortedList.exe
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\bin\Debug\net7.0\DataStructures.SortedList.deps.json
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\bin\Debug\net7.0\DataStructures.SortedList.runtimeconfig.json
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\bin\Debug\net7.0\DataStructures.SortedList.dll
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\bin\Debug\net7.0\DataStructures.SortedList.pdb
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\DataStructures.SortedList.csproj.AssemblyReference.cache
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\DataStructures.SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\DataStructures.SortedList.AssemblyInfoInputs.cache
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\DataStructures.SortedList.AssemblyInfo.cs
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\DataStructures.SortedList.csproj.CoreCompileInputs.cache
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\DataStructures.SortedList.dll
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\refint\DataStructures.SortedList.dll
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\DataStructures.SortedList.pdb
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\DataStructures.SortedList.genruntimeconfig.cache
+C:\Users\rog\Desktop\DataStructures\DataStructures.SortedList\obj\Debug\net7.0\ref\DataStructures.SortedList.dll

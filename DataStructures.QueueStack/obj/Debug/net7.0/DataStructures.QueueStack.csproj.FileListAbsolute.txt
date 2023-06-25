@@ -1,0 +1,15 @@
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\bin\Debug\net7.0\DataStructures.QueueStack.exe
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\bin\Debug\net7.0\DataStructures.QueueStack.deps.json
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\bin\Debug\net7.0\DataStructures.QueueStack.runtimeconfig.json
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\bin\Debug\net7.0\DataStructures.QueueStack.dll
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\bin\Debug\net7.0\DataStructures.QueueStack.pdb
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\DataStructures.QueueStack.csproj.AssemblyReference.cache
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\DataStructures.QueueStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\DataStructures.QueueStack.AssemblyInfoInputs.cache
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\DataStructures.QueueStack.AssemblyInfo.cs
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\DataStructures.QueueStack.csproj.CoreCompileInputs.cache
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\DataStructures.QueueStack.dll
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\refint\DataStructures.QueueStack.dll
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\DataStructures.QueueStack.pdb
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\DataStructures.QueueStack.genruntimeconfig.cache
+C:\Users\rog\Desktop\DataStructures\DataStructures.QueueStack\obj\Debug\net7.0\ref\DataStructures.QueueStack.dll
